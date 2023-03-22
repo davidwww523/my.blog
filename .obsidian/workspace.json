@@ -146,8 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0200116d6424c032",
+  "active": "841802ba577f8375",
   "lastOpenFiles": [
+    "未命名",
+    "未命名文件夹",
     "resources/_gen/assets/scss/scss/coder.scss_d9b60ee5c2bc7799a5af2e1647965a29.json",
     "resources/_gen/assets/scss/scss/coder.scss_d9b60ee5c2bc7799a5af2e1647965a29.content",
     "resources/_gen/assets/scss/scss",
@@ -158,8 +160,6 @@
     "resources/_gen/assets",
     "resources/_gen",
     "resources",
-    "themes/hugo-coder/theme.toml",
-    "themes/hugo-coder/static/fonts/forkawesome-webfont.woff2",
     "themes/hugo-coder/static/fonts/forkawesome-webfont.svg",
     "themes/hugo-coder/images/logos/logotype-b.svg",
     "themes/hugo-coder/images/logos/logotype-b.png",
