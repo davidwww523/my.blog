@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Tech/2022-12-05-markdown-energy-nuclear.markd.md",
+                "file": "content/Life/first_day.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Tech/2022-12-05-markdown-energy-nuclear.markd.md",
+                "file": "content/Life/first_day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Tech/2022-12-05-markdown-energy-nuclear.markd.md",
+                "file": "content/Life/first_day.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Tech/2022-12-05-markdown-energy-nuclear.markd.md"
+                "file": "content/Life/first_day.md"
               }
             }
           }
@@ -139,6 +139,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "ava:Ava": false,
+      "ava:Ava - Show Links": false,
+      "ava:Ava - Open Rewrite Playground": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -149,14 +152,14 @@
   },
   "active": "63049a69725f2efc",
   "lastOpenFiles": [
+    "content/Tech/2022-12-05-markdown-energy-nuclear.markd.md",
+    "content/Tech/未命名.md",
     "未命名.canvas",
     "2023-03-27.md",
-    "content/Tech/2022-12-05-markdown-energy-nuclear.markd.md",
     "themes/hugo-coder/exampleSite/content/about.md",
     "themes/hugo-coder/docs/home.md",
     "themes/hugo-coder/docs/quick-start.md",
     "content/Life/first_day.md",
-    "content/Tech/未命名.md",
     "未命名.md",
     "content/life/first_day.md",
     "content/Life",
