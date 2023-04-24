@@ -1,9 +1,40 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "532bec42-b3ff-4998-a03b-f3b38255bed3",
+      "name": "新建博客",
+      "type": "Template",
+      "command": false,
+      "templatePath": "_Templates/hugo 模版.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "content/posts"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    }
+  ],
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "/_Temlates/hugo 模版.md",
+  "templateFolderPath": "",
   "announceUpdates": true,
   "version": "0.16.0",
   "migrations": {
