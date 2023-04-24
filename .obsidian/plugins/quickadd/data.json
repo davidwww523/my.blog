@@ -3,7 +3,7 @@
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "",
+  "templateFolderPath": "/_Temlates/hugo 模版.md",
   "announceUpdates": true,
   "version": "0.16.0",
   "migrations": {
