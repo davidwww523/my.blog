@@ -5,7 +5,7 @@
       "name": "新建博客",
       "type": "Template",
       "command": false,
-      "templatePath": "_Templates/hugo 模版.md",
+      "templatePath": "_Templates/hugo模版.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{value}}"

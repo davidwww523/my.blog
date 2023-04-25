@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "320e39bbfdfead52",
+        "id": "590649169ef0f60f",
         "type": "tabs",
         "children": [
           {
-            "id": "63049a69725f2efc",
+            "id": "82a148fcb7ff7c03",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/Tech/2022-12-05-markdown-energy-nuclear.markd.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/Tech/2022-12-05-markdown-energy-nuclear.markd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/Tech/2022-12-05-markdown-energy-nuclear.markd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,16 +124,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "content/Tech/2022-12-05-markdown-energy-nuclear.markd.md"
+              }
+            }
+          },
+          {
+            "id": "f8798e5d2b69158b",
+            "type": "leaf",
+            "state": {
+              "type": "ava.write.sidebar",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,14 +159,17 @@
   },
   "active": "841802ba577f8375",
   "lastOpenFiles": [
-    "_Templates/hugo 模版.md",
+    "content/Politic",
+    "content/未命名文件夹",
+    "content/Tech/未命名.md",
     "未命名.md",
+    "_Templates/hugo模版.md",
+    "_Templates/hugo 模版.md",
     "content/Tech/2022-12-05-markdown-energy-nuclear.markd.md",
     "_Templates/first_day.md",
     "_Templates",
     "未命名文件夹",
     "content/Life/first_day.md",
-    "content/Tech/未命名.md",
     "未命名.canvas",
     "2023-03-27.md",
     "themes/hugo-coder/exampleSite/content/about.md",
@@ -165,7 +183,6 @@
     "resources/_gen/assets/scss/scss/coder.scss_d9b60ee5c2bc7799a5af2e1647965a29.content",
     "resources/_gen/assets/scss/scss",
     "resources/_gen/assets/scss",
-    "content/life",
     "themes/hugo-coder/static/fonts/forkawesome-webfont.svg",
     "themes/hugo-coder/images/logos/logotype-b.svg",
     "themes/hugo-coder/images/logos/logotype-b.png",
@@ -188,8 +205,6 @@
     "themes/hugo-coder/exampleSite/content/posts/more-rich-content.pt-br.md",
     "themes/hugo-coder/exampleSite/content/posts/more-rich-content.md",
     "themes/hugo-coder/exampleSite/content/posts/mermaid-support.md",
-    "themes/hugo-coder/exampleSite/content/posts/math-typesetting.pt-br.md",
-    "themes/hugo-coder/exampleSite/content/posts/math-typesetting.md",
-    "themes/hugo-coder/exampleSite/content/posts/markdown-syntax.pt-br.md"
+    "themes/hugo-coder/exampleSite/content/posts/math-typesetting.pt-br.md"
   ]
 }
