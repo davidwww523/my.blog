@@ -157,8 +157,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "841802ba577f8375",
+  "active": "82a148fcb7ff7c03",
   "lastOpenFiles": [
+    "content/posts/first_day.md",
+    "content/posts",
+    "resources/_gen/assets/scss/scss/coder-dark.scss_70f8a07cb8b7568202eb18ce456ff884.content",
+    "resources/_gen/assets/scss/scss/coder-dark.scss_70f8a07cb8b7568202eb18ce456ff884.json",
     "content/Politic",
     "content/未命名文件夹",
     "content/Tech/未命名.md",
@@ -179,10 +183,6 @@
     "content/Life",
     "content/Tech",
     "未命名",
-    "resources/_gen/assets/scss/scss/coder.scss_d9b60ee5c2bc7799a5af2e1647965a29.json",
-    "resources/_gen/assets/scss/scss/coder.scss_d9b60ee5c2bc7799a5af2e1647965a29.content",
-    "resources/_gen/assets/scss/scss",
-    "resources/_gen/assets/scss",
     "themes/hugo-coder/static/fonts/forkawesome-webfont.svg",
     "themes/hugo-coder/images/logos/logotype-b.svg",
     "themes/hugo-coder/images/logos/logotype-b.png",
