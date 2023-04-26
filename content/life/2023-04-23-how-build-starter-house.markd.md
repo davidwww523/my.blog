@@ -14,4 +14,5 @@ category: blog
 听起来很疯狂吧？然而，开源倡导者和创客Catarina Mota以及发明家Marcin Jakubowski（请参见他们的TED演讲，“玩转智能材料”和“文明社会开放蓝图”，分别）正在通过其Open Building Institute Eco-Building Toolkit实现可负担性、经济适用型生态住房梦想。他们已经建造了几个原型并通过一系列教育性建筑测试了这个概念。
 
 随着他们结束成功的Kickstarter筹款活动以筹集资金将这个想法推向下一个发展阶段，Marcin和Catarina介绍了谷仓式开源风格。以下是它如何运作：
-
+![](https://raw.githubusercontent.com/davidwww523/photo/master/202304261744838.png)
+>At the heart of OBI houses: a library of modular, open source designs that can be assembled quickly, like Lego
