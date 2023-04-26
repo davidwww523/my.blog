@@ -1,7 +1,7 @@
 baseurl = "http://www.example.com"
-title = "johndoe"
+title = "TruthsBeTold"
 theme = "hugo-coder"
-languagecode = "en"
+languagecode = "cn"
 defaultcontentlanguage = "en"
 
 paginate = 20
@@ -12,12 +12,12 @@ disqusShortname = "yourdiscussshortname"
 style = "github-dark"
 
 [params]
-  author = "John Doe"
+  author = "David"
   info = "Full Stack DevOps and Magician"
-  description = "John Doe's personal website"
-  keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
-  #gravatar = "john.doe@example.com"
+  description = "David's personal website"
+  keywords = "life,tech,personal"
+  avatarurl = "https://raw.githubusercontent.com/davidwww523/photo/master/me.jpg"
+  #gravatar = ""
 
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
@@ -66,6 +66,10 @@ style = "github-dark"
   weight = 2
   url  = "tech/"
 [[menu.main]]
-  name = "About"
+  name = "Politic"
   weight = 3
+  url  = "poli/"
+[[menu.main]]
+  name = "About"
+  weight = 4
   url = "about/"
