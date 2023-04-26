@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/tech/2022-12-05-markdown-energy-nuclear.markd.md",
+                "file": "content/poli/2023-04-023-Russia’s-notorious-private-army-tries-to-retool-its image.markd.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/tech/2022-12-05-markdown-energy-nuclear.markd.md",
+                "file": "content/poli/2023-04-023-Russia’s-notorious-private-army-tries-to-retool-its image.markd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/tech/2022-12-05-markdown-energy-nuclear.markd.md",
+                "file": "content/poli/2023-04-023-Russia’s-notorious-private-army-tries-to-retool-its image.markd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/tech/2022-12-05-markdown-energy-nuclear.markd.md"
+                "file": "content/poli/2023-04-023-Russia’s-notorious-private-army-tries-to-retool-its image.markd.md"
               }
             }
           },
@@ -158,14 +158,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2d57b02c03f96c66",
+  "active": "d5dc13cceecbdafb",
   "lastOpenFiles": [
-    "content/life/first_day.md",
-    "content/about/未命名.md",
-    "themes/hugo-coder/archetypes/posts.md",
-    "themes/hugo-coder/archetypes/default.md",
+    "content/2023-04-023-Russia’s-notorious-private-army-tries-to-retool-its image.markd.md",
+    "content/poli/2023-04-023-Russia’s-notorious-private-army-tries-to-retool-its image.markd.md",
     "content/tech/2022-12-05-markdown-energy-nuclear.markd.md",
-    "resources/_gen/2023-04-023-Russia’s-notorious-private-army-tries-to-retool-its image.markd.md",
+    "content/life/first_day.md",
+    "themes/hugo-coder/archetypes/default.md",
+    "themes/hugo-coder/archetypes/posts.md",
+    "content/about/未命名.md",
     "content/poli",
     "content/polic",
     "content/未命名文件夹",
@@ -205,7 +206,6 @@
     "themes/hugo-coder/exampleSite/content/categories/syntax/_index.pt-br.md",
     "themes/hugo-coder/exampleSite/content/authors/hugo-authors/_index.pt-br.md",
     "themes/hugo-coder/exampleSite/content/authors/hugo-authors/_index.md",
-    "themes/hugo-coder/exampleSite/content/posts/rich-content.pt-br.md",
-    "themes/hugo-coder/exampleSite/content/posts/rich-content.md"
+    "themes/hugo-coder/exampleSite/content/posts/rich-content.pt-br.md"
   ]
 }
