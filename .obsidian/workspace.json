@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Tech/2022-12-05-markdown-energy-nuclear.markd.md",
+                "file": "content/posts/2022-12-05-markdown-energy-nuclear.markd.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Tech/2022-12-05-markdown-energy-nuclear.markd.md",
+                "file": "content/posts/2022-12-05-markdown-energy-nuclear.markd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Tech/2022-12-05-markdown-energy-nuclear.markd.md",
+                "file": "content/posts/2022-12-05-markdown-energy-nuclear.markd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Tech/2022-12-05-markdown-energy-nuclear.markd.md"
+                "file": "content/posts/2022-12-05-markdown-energy-nuclear.markd.md"
               }
             }
           },
@@ -160,6 +160,11 @@
   "active": "82a148fcb7ff7c03",
   "lastOpenFiles": [
     "content/posts/first_day.md",
+    "content/posts/2022-12-05-markdown-energy-nuclear.markd.md",
+    "content/Tech/2022-12-05-markdown-energy-nuclear.markd.md",
+    "content/about/未命名.md",
+    "content/about",
+    "content/Politic/未命名.md",
     "content/posts",
     "resources/_gen/assets/scss/scss/coder-dark.scss_70f8a07cb8b7568202eb18ce456ff884.content",
     "resources/_gen/assets/scss/scss/coder-dark.scss_70f8a07cb8b7568202eb18ce456ff884.json",
@@ -169,7 +174,6 @@
     "未命名.md",
     "_Templates/hugo模版.md",
     "_Templates/hugo 模版.md",
-    "content/Tech/2022-12-05-markdown-energy-nuclear.markd.md",
     "_Templates/first_day.md",
     "_Templates",
     "未命名文件夹",
@@ -182,7 +186,6 @@
     "content/life/first_day.md",
     "content/Life",
     "content/Tech",
-    "未命名",
     "themes/hugo-coder/static/fonts/forkawesome-webfont.svg",
     "themes/hugo-coder/images/logos/logotype-b.svg",
     "themes/hugo-coder/images/logos/logotype-b.png",
@@ -202,9 +205,6 @@
     "themes/hugo-coder/exampleSite/content/posts/rich-content.md",
     "themes/hugo-coder/exampleSite/content/posts/placeholder-text.pt-br.md",
     "themes/hugo-coder/exampleSite/content/posts/placeholder-text.md",
-    "themes/hugo-coder/exampleSite/content/posts/more-rich-content.pt-br.md",
-    "themes/hugo-coder/exampleSite/content/posts/more-rich-content.md",
-    "themes/hugo-coder/exampleSite/content/posts/mermaid-support.md",
-    "themes/hugo-coder/exampleSite/content/posts/math-typesetting.pt-br.md"
+    "themes/hugo-coder/exampleSite/content/posts/more-rich-content.pt-br.md"
   ]
 }
