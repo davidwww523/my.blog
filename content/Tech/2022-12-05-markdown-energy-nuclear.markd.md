@@ -3,8 +3,9 @@ title: "硅谷大佬们开始踊跃投资核能"
 layout: posts
 category: blog
 date: 2022-12-05T22:39:57+08:00
-image: https://raw.githubusercontent.com/davidwww523/photo/master/silicon_valley.jpg
 ---
+![](https://raw.githubusercontent.com/davidwww523/photo/master/silicon_valley.jpg)
+
 最近几周，硅谷的一些科技大佬们开始频频推介核能。包括埃隆·马斯克（Elon Musk）以及比尔·盖茨(Bill Gates)在内的知名科技行业企业家以及最著名的技术专家们都认为核能既能减少碳排放，又能让世界摆脱能源危机。
 
 ![musk's twitter_1](https://raw.githubusercontent.com/davidwww523/photo/master/musck_twitter_nuclear_1.png)

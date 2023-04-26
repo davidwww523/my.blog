@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/life/2023-04-23-how-build-starter-house.markd.md",
+                "file": "content/tech/2022-12-05-markdown-energy-nuclear.markd.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/life/2023-04-23-how-build-starter-house.markd.md",
+                "file": "content/tech/2022-12-05-markdown-energy-nuclear.markd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/life/2023-04-23-how-build-starter-house.markd.md",
+                "file": "content/tech/2022-12-05-markdown-energy-nuclear.markd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/life/2023-04-23-how-build-starter-house.markd.md"
+                "file": "content/tech/2022-12-05-markdown-energy-nuclear.markd.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   "active": "d5dc13cceecbdafb",
   "lastOpenFiles": [
     "content/poli/2023-04-023-Russia’s-notorious-private-army-tries-to-retool-its image.markd.md",
+    "content/life/2023-04-23-how-build-starter-house.markd.md",
     "content/2023-04-023-Russia’s-notorious-private-army-tries-to-retool-its image.markd.md",
     "content/tech/2022-12-05-markdown-energy-nuclear.markd.md",
     "content/life/first_day.md",
@@ -205,7 +206,6 @@
     "themes/hugo-coder/exampleSite/content/categories/themes/_index.pt-br.md",
     "themes/hugo-coder/exampleSite/content/categories/syntax/_index.pt-br.md",
     "themes/hugo-coder/exampleSite/content/authors/hugo-authors/_index.pt-br.md",
-    "themes/hugo-coder/exampleSite/content/authors/hugo-authors/_index.md",
-    "themes/hugo-coder/exampleSite/content/posts/rich-content.pt-br.md"
+    "themes/hugo-coder/exampleSite/content/authors/hugo-authors/_index.md"
   ]
 }
