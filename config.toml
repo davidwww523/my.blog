@@ -1,4 +1,4 @@
-baseurl = "https://truthsbetold.club"
+baseurl = "http://example.com"
 title = "TruthsBeTold"
 theme = "hugo-coder"
 languagecode = "cn"
