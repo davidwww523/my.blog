@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/tech/2022-12-05-markdown-energy-nuclear.markd.md",
+                "file": "content/about/2023-04-Statement-About-Me.markd.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/tech/2022-12-05-markdown-energy-nuclear.markd.md",
+                "file": "content/about/2023-04-Statement-About-Me.markd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/tech/2022-12-05-markdown-energy-nuclear.markd.md",
+                "file": "content/about/2023-04-Statement-About-Me.markd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/tech/2022-12-05-markdown-energy-nuclear.markd.md"
+                "file": "content/about/2023-04-Statement-About-Me.markd.md"
               }
             }
           },
@@ -160,14 +160,14 @@
   },
   "active": "d5dc13cceecbdafb",
   "lastOpenFiles": [
-    "content/poli/2023-04-023-Russia’s-notorious-private-army-tries-to-retool-its image.markd.md",
     "content/life/2023-04-23-how-build-starter-house.markd.md",
-    "content/2023-04-023-Russia’s-notorious-private-army-tries-to-retool-its image.markd.md",
+    "content/about/2023-04-Statement-About-Me.markd.md",
+    "content/poli/2023-04-23-Russia’s-notorious-private-army-tries-to-retool-its image.markd.md",
     "content/tech/2022-12-05-markdown-energy-nuclear.markd.md",
+    "content/2023-04-023-Russia’s-notorious-private-army-tries-to-retool-its image.markd.md",
     "content/life/first_day.md",
     "themes/hugo-coder/archetypes/default.md",
     "themes/hugo-coder/archetypes/posts.md",
-    "content/about/未命名.md",
     "content/poli",
     "content/polic",
     "content/未命名文件夹",
