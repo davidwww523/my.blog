@@ -1,5 +1,18 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "comment": {
+      "type": "comment",
+      "color": "148, 25, 25",
+      "icon": {
+        "name": "air-freshener",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "brain",
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "9.2.3",
@@ -18,7 +31,7 @@
   "icons": [],
   "useFontAwesome": true,
   "rpgDownloadedOnce": false,
-  "msDocConverted": false,
+  "msDocConverted": true,
   "useSnippet": false,
   "snippetPath": "custom-admonitions.b5911c"
 }
