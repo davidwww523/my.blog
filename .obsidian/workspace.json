@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about/2023-04-Statement-About-Me.markd.md",
+                "file": "content/poli/2023-04-28-Pence-Testifies-Investigating-January-Trump.markd.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/about/2023-04-Statement-About-Me.markd.md",
+                "file": "content/poli/2023-04-28-Pence-Testifies-Investigating-January-Trump.markd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/about/2023-04-Statement-About-Me.markd.md",
+                "file": "content/poli/2023-04-28-Pence-Testifies-Investigating-January-Trump.markd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/about/2023-04-Statement-About-Me.markd.md"
+                "file": "content/poli/2023-04-28-Pence-Testifies-Investigating-January-Trump.markd.md"
               }
             }
           },
@@ -160,9 +160,9 @@
   },
   "active": "d5dc13cceecbdafb",
   "lastOpenFiles": [
-    "content/life/2023-04-23-how-build-starter-house.markd.md",
     "content/about/2023-04-Statement-About-Me.markd.md",
-    "content/poli/2023-04-23-Russia’s-notorious-private-army-tries-to-retool-its image.markd.md",
+    "content/life/2023-04-23-how-build-starter-house.markd.md",
+    "content/poli/2023-04-28-Pence-Testifies-Investigating-January-Trump.markd.md",
     "content/tech/2022-12-05-markdown-energy-nuclear.markd.md",
     "content/2023-04-023-Russia’s-notorious-private-army-tries-to-retool-its image.markd.md",
     "content/life/first_day.md",

@@ -3,5 +3,6 @@
   "hugo-preview-obsidian",
   "obsidian-image-auto-upload-plugin",
   "obsidian-git",
-  "ava"
+  "ava",
+  "obsidian-admonition"
 ]
