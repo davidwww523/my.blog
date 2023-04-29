@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -157,12 +157,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d5dc13cceecbdafb",
+  "active": "f8798e5d2b69158b",
   "lastOpenFiles": [
-    "content/about/2023-04-Statement-About-Me.markd.md",
+    "content/tech/2022-12-05-markdown-energy-nuclear.markd.md",
     "content/life/2023-04-23-how-build-starter-house.markd.md",
     "content/poli/2023-04-28-Pence-Testifies-Investigating-January-Trump.markd.md",
-    "content/tech/2022-12-05-markdown-energy-nuclear.markd.md",
+    "content/about/2023-04-Statement-About-Me.markd.md",
     "content/2023-04-023-Russia’s-notorious-private-army-tries-to-retool-its image.markd.md",
     "content/life/first_day.md",
     "themes/hugo-coder/archetypes/default.md",
