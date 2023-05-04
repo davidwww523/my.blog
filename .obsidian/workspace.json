@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b8fdb50dfdea74e4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,6 +73,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "44540e62c6430b36",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -157,7 +176,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d5dc13cceecbdafb",
+  "active": "b8fdb50dfdea74e4",
   "lastOpenFiles": [
     "content/poli/2023-04-28-Pence-Testifies-Investigating-January-Trump.markd.md",
     "content/about/2023-04-Statement-About-Me.markd.md",
