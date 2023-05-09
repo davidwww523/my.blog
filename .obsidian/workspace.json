@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/life/2023-05-08-Hifi-Bi_Amp-System-.markd.md",
+                "file": "content/life/2023-04-23-how-build-starter-house.markd.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#低失真：低音和高音单元有不同的灵敏度和阻抗特性，如果功放失真较大，则容易破坏喇叭单元。",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/life/2023-05-08-Hifi-Bi_Amp-System-.markd.md",
+                "file": "content/life/2023-04-23-how-build-starter-house.markd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/life/2023-05-08-Hifi-Bi_Amp-System-.markd.md",
+                "file": "content/life/2023-04-23-how-build-starter-house.markd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/life/2023-05-08-Hifi-Bi_Amp-System-.markd.md"
+                "file": "content/life/2023-04-23-how-build-starter-house.markd.md"
               }
             }
           },
@@ -166,10 +165,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d5dc13cceecbdafb",
+  "active": "841802ba577f8375",
   "lastOpenFiles": [
-    "content/life/2023-04-23-how-build-starter-house.markd.md",
     "content/life/2023-05-08-Hifi-Bi_Amp-System-.markd.md",
+    "content/life/2023-04-23-how-build-starter-house.markd.md",
     "content/tech/2022-12-05-markdown-energy-nuclear.markd.md",
     "content/about/2023-04-Statement-About-Me.markd.md",
     "content/poli/2023-04-28-Pence-Testifies-Investigating-January-Trump.markd.md",
