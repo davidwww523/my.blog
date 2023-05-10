@@ -3,7 +3,7 @@ title: "川普被判定性侵成立，赔偿伍佰万美元"
 date: 2023-05-10T08:39:57+08:00
 layout: poli
 category: politic
-keywords: trump, sexually
+tag: Trump, sexually
 ---
 ![](https://raw.githubusercontent.com/davidwww523/photo/master/202305100756640.png)
 >by Adam Reiss and Dareh Gregorian | NBC NEWS
@@ -24,4 +24,4 @@ Carroll周二在一份声明中说：
 >我完全不知道这个女人是谁。这项裁决是一个耻辱——有史以来最大的政治迫害行动的延续！
 
 
->我想说得是Trump的无耻行为以及满口的谎言为啥在美国国内还能得到那么高的支持率？难道信息不够透明？还是对传统媒体的不信任？或者更可怕的是对司法的不信任？或许是信息太过透明，都懒得去梳理了！不过这次的判决对Trump的总统竞选之路绝对是一个巨大的打击，
+>我想说得是Trump的无耻行为以及满口的谎言为啥在美国国内还能得到那么高的支持率？难道信息不够透明？还是对传统媒体的不信任？或者更可怕的是对司法的不信任？或许是信息太过透明，都懒得去梳理了！不过这次的判决对Trump的总统竞选之路绝对是一个巨大的打击！
