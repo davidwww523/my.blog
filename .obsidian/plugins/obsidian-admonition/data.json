@@ -12,6 +12,19 @@
       "injectColor": true,
       "noTitle": false,
       "copy": false
+    },
+    "hugo_coder": {
+      "type": "hugo_coder",
+      "color": "27, 32, 182",
+      "icon": {
+        "name": "arrow-circle-right",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Quote",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
     }
   },
   "syntaxHighlight": false,
@@ -33,6 +46,6 @@
   "useFontAwesome": true,
   "rpgDownloadedOnce": false,
   "msDocConverted": true,
-  "useSnippet": false,
+  "useSnippet": true,
   "snippetPath": "custom-admonitions.b5911c"
 }
