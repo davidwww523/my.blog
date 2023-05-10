@@ -21,7 +21,7 @@
         "type": "font-awesome"
       },
       "command": false,
-      "title": "Quote",
+      "title": "我的评论",
       "injectColor": true,
       "noTitle": false,
       "copy": false
@@ -40,12 +40,12 @@
     "admonitions": true,
     "icons": true,
     "other": true,
-    "advanced": false
+    "advanced": true
   },
   "icons": [],
   "useFontAwesome": true,
   "rpgDownloadedOnce": false,
   "msDocConverted": true,
-  "useSnippet": true,
+  "useSnippet": false,
   "snippetPath": "custom-admonitions.b5911c"
 }
