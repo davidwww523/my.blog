@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archetypes/default.md",
+                "file": "content/Tech/2023-05-18-CocaCola-business-secrecy-thousand-plan.markd.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2023-05-18-CocaCola-business-secrecy-thousand-plan.markd"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -70,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -93,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archetypes/default.md",
+                "file": "content/Tech/2023-05-18-CocaCola-business-secrecy-thousand-plan.markd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +111,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "2023-05-18-CocaCola-business-secrecy-thousand-plan.markd 的反向链接列表"
             }
           },
           {
@@ -110,10 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "archetypes/default.md",
+                "file": "content/Tech/2023-05-18-CocaCola-business-secrecy-thousand-plan.markd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "2023-05-18-CocaCola-business-secrecy-thousand-plan.markd 的出链列表"
             }
           },
           {
@@ -124,7 +138,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -133,29 +149,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "archetypes/default.md"
-              }
-            }
-          },
-          {
-            "id": "f8798e5d2b69158b",
-            "type": "leaf",
-            "state": {
-              "type": "ava.write.sidebar",
-              "state": {}
+                "file": "content/Tech/2023-05-18-CocaCola-business-secrecy-thousand-plan.markd.md"
+              },
+              "icon": "lucide-list",
+              "title": "2023-05-18-CocaCola-business-secrecy-thousand-plan.markd 的大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "ava:Ava": false,
-      "ava:Ava - Show Links": false,
-      "ava:Ava - Open Rewrite Playground": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -166,12 +174,15 @@
   },
   "active": "d5dc13cceecbdafb",
   "lastOpenFiles": [
-    "_Templates/hugo模版.md",
-    "content/life/2023-04-23-how-build-starter-house.markd.md",
+    "content/Tech/2022-12-05-markdown-energy-nuclear.markd.md",
+    "content/Tech/2023-05-18-CocaCola-business-secrecy-thousand-plan.markd.md",
+    "content/poli/2023-05-09-Trump-found-liable-for-sexually-ordered-to-pay-$5 million.markd.md",
     "content/life/2023-05-08-Hifi-Bi_Amp-System-.markd.md",
+    "content/life/2023-04-23-how-build-starter-house.markd.md",
+    "archetypes/default.md",
+    "_Templates/hugo模版.md",
     "content/tech/2023-05-18-CocaCola-business-secrecy-thousand-plan.markd.md",
     "content/tech/2022-12-05-markdown-energy-nuclear.markd.md",
-    "content/poli/2023-05-09-Trump-found-liable-for-sexually-ordered-to-pay-$5 million.markd.md",
     "content/poli/2023-04-28-Pence-Testifies-Investigating-January-Trump.markd.md",
     "content/about/2023-04-Statement-About-Me.markd.md",
     "content/2023-04-023-Russia’s-notorious-private-army-tries-to-retool-its image.markd.md",
@@ -185,7 +196,6 @@
     "content/posts/2022-12-05-markdown-energy-nuclear.markd.md",
     "content/tech",
     "content/posts/first_day.md",
-    "content/Tech/2022-12-05-markdown-energy-nuclear.markd.md",
     "content/about",
     "content/Politic/未命名.md",
     "content/posts",
@@ -210,8 +220,6 @@
     "themes/hugo-coder/images/logos/logomark.png",
     "themes/hugo-coder/images/logos/favicon.svg",
     "themes/hugo-coder/images/logos/favicon.png",
-    "themes/hugo-coder/images/tn.png",
-    "themes/hugo-coder/exampleSite/content/tags/shortcodes/_index.pt-br.md",
-    "themes/hugo-coder/exampleSite/content/categories/themes/_index.pt-br.md"
+    "themes/hugo-coder/images/tn.png"
   ]
 }
